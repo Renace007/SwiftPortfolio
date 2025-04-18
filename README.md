@@ -25,8 +25,13 @@ This repository is a future-facing container for my Swift creations.
 
 ## 📬 联系我 | Contact
 
-如果你对某个项目感兴趣，或希望交流开发经验，欢迎联系我：  
-> ✉️ GitHub Issues / Discussions
+有兴趣交流？合作？反馈建议？我在这里等你。
+
+- 📧 Email: nozickaturben465@gmail.com  
+- 🐙 GitHub Issues: https://github.com/Renace007/SwiftPortfolio/issues
+
+Feel free to reach out if you want to collaborate, discuss ideas, or report issues.  
+Let's build something meaningful together.
 
 ---
 
