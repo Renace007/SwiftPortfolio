@@ -5,7 +5,7 @@
 
 ---
 
-![Hairstyle App Cover](./Hairstyle/cover.png)
+![Hairstyle App Cover](./Hairstyle/swiftapp.png)
 
 ---
 
