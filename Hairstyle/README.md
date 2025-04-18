@@ -1,3 +1,4 @@
+![Hairstyle App Cover](./cover.png)
 # 💇‍♀️ Hairstyle 发型推荐 App
 
 > “人会换发型，也会换心情，而这个 App，只为记录那些想尝试的瞬间。”
