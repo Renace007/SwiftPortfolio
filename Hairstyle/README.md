@@ -32,9 +32,10 @@ Hairstyle 是一款专为 iOS 平台设计的发型推荐与试戴 App，主打�
 - **事件传递**：使用闭包实现 Cell ↔ Controller 的数据通信
 - **布局方式**：Auto Layout + 部分手动 frame 控制
 
-## 🚀 如何运行
+## 🚀 如何运行 | How to Run
 
-1. 克隆项目：
+1. 克隆整个作品集仓库：
 
 ```bash
-git clone https://github.com/your-username/hairstyle-app.git
+git clone https://github.com/Renace007/SwiftPortfolio.git
+cd SwiftPortfolio/Hairstyle
