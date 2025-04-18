@@ -5,7 +5,7 @@
 
 ---
 
-![Hairstyle App Cover](./Hairstyle/swiftapp.png)
+![小鱼大王](./Hairstyle/SwiftApp.png)
 
 ---
 
